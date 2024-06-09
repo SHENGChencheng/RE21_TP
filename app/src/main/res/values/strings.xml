@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RE21_TP2</string>
+    <string name="reset">reset</string>
+    <string name="fltre">fltre</string>
+    <string name="bleu">bleu</string>
+    <string name="rouge">rouge</string>
+    <string name="vert">vert</string>
+</resources>

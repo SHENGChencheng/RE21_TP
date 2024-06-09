@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/reset"
+          android:title="@string/reset"/>
+
+    <item android:id="@+id/filtre"
+        android:title="@string/fltre">
+        <menu>
+            <item android:id="@+id/bleu"
+            android:title="@string/bleu"/>
+            <item android:id="@+id/rouge"
+            android:title="@string/rouge"/>
+            <item android:id="@+id/vert"
+            android:title="@string/vert"/>
+        </menu></item>
+
+
+</menu>
